@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "http-status-codes": "^2.2.0",
+    "install": "^0.13.0",
+    "jest": "^27.5.1",
+    "moongose": "^1.0.0",
+    "npm": "^8.5.5",
+    "uuid": "^8.3.2",
+    "validate.js": "^0.13.1"
+  },
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node server.js"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Gabriel Ilian",
+  "license": "ISC",
+  "description": ""
+}
